@@ -102,5 +102,5 @@ book-review-api/
 - This project is for learning and demonstration purposes.
 - You can extend it by adding authentication, user management, or more features as needed.## 🧪 Postman Collection
 ## Postman Collection
-- [Download Postman Collection](Book-Review-API.postman_collection.json)
-- 
+-This Postman collection allows you to quickly test and explore all the API endpoints provided by the Book Review API.
+ [Download Postman Collection]

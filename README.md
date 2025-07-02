@@ -103,4 +103,4 @@ book-review-api/
 - You can extend it by adding authentication, user management, or more features as needed.## 🧪 Postman Collection
 ## Postman Collection
 -This Postman collection allows you to quickly test and explore all the API endpoints provided by the Book Review API.
- [Download Postman Collection]
+ [Download Postman Collection](Book Review api.postman_collection.json)

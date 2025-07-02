@@ -100,4 +100,7 @@ book-review-api/
 
 ## 📢 Notes
 - This project is for learning and demonstration purposes.
-- You can extend it by adding authentication, user management, or more features as needed.
+- You can extend it by adding authentication, user management, or more features as needed.## 🧪 Postman Collection
+## Postman Collection
+- [Download Postman Collection](Book-Review-API.postman_collection.json)
+- 
